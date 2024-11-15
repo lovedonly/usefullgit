@@ -109,4 +109,78 @@ github：https://github.com/Lightning-AI/LitServe
 https://github.com/Huanshere/VideoLingo
 GPT-4o语音对话开源版
 https://github.com/huggingface/speech-to-speech
+CogVideoX-5B：最新开源！！你可以在本地使用AI文本生成视频了！（12G显存 & 本地部署）
 
+Mini-Omni—首个端到端实时交互的开源LLM模型
+https://github.com/Keytoyze/VisionTS
+ AI 知识库问答系统
+https://github.com/1Panel-dev/MaxKB
+
+PyDracula 是一个功能强大、易于使用的 Python GUI 库，它能够帮助开发者快速构建出现代、美观的图形界面。其丰富的功能和高度可定制性使得它成为 Python GUI 开发的首选库之一。
+https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6
+
+Leantime项目管理工具
+ BI 工具
+https://github.com/dataease/dataease/
+智能家居 AI 摄像头
+https://github.com/blakeblackshear/frigate
+Loopy：音频驱动静态照片变动态视频
+https://loopyavatar.github.io/
+Open Interpreter（开放解释器） 可以让大语言模型（LLMs）在本地运行代码（比如 Python、JavaScript、Shell 等）。
+https://github.com/OpenInterpreter/open-interpreter
+前端监控
+https://github.com/a597873885/webfunny_monitor
+Cryptomator
+是一个开源跨平台工具，为存储在云中的文件提供客户端加密。
+
+MiniMind 是一个轻量级的大语言模型项目，让用户可以在个人设备上快速训练和运行GPT模型
+https://github.com/jingyaogong/minimind
+Luigi作为一个功能强大且灵活的数据管道构建工具
+https://github.com/spotify/luigi
+OpenBoxes 是一个供应链管理系统，最初旨在管理医疗机构的库存并跟踪库存变动。
+CopilotKit 是为了解决在 Web 应用程序中集成 AI 功能时遇到的一些常见问题而设计的。
+Flash Waimai：饿了么外卖平台开源项目
+https://github.com/caorushizi/mediago
+Supervision是由Roboflow开源的计算机视觉工具库
+超级趋势搭布林线
+https://mp.weixin.qq.com/s/SE-EQHvsNC-nHInth6kluw
+网格交易
+https://mp.weixin.qq.com/s/6SvKCxcG_ZCQAjyQHy4Jkg
+管理各种GPU构建企业私有LLM服务
+https://github.com/gpustack/gpustack
+日内交易革命：轻松搭建现代交易者指挥中心
+https://github.com/alexyu2013/rss/blob/main/day_trading_rss.py
+虚拟服装试穿
+https://github.com/shyjal/visual-try-on
+LightRAG开源了！轻巧、强大，GraphRAG的进化版
+Penpot - 开源设计和原型平台
+Tipi   适合所有人的家庭服务器！一键设置，一键安装您最喜爱的自托管应用程序
+https://mp.weixin.qq.com/s/Rwzz_7aUroJ7uTgbTohiDg
+免费且开源的机器翻译API
+https://github.com/LibreTranslate/LibreTranslate
+docker ui
+docker container run --rm --name docker.ui -v /var/run/docker.sock:/var/run/docker.sock -p 8999:8999 joinsunsoft/docker.ui
+视频轨迹
+https://github.com/alibaba/Tora
+ToolJet是一款非常值得尝试的低代码开发平台
+https://github.com/ToolJet/ToolJet
+
+
+
+docker run  --name tooljet --restart unless-stopped -p 80:80  --platform linux/amd64  -v tooljet_data:/var/lib/postgresql/13/main   tooljet/try:EE-LTS-latest
+
+数据指标体系
+https://mp.weixin.qq.com/s/U6CyGgKNh9SvCCUnlIrh5w
+
+DooTask是一个非常值得尝试的开源项目，完全可以套用到我们的工作中，甚至可以将其部署到公司内部来进行使用，或许会发现它对工作效率和组织能力有帮助
+
+
+FRONT=production BACKEND=pro docker compose up
+docker compose down
+
+
+配色网站
+https://aicolors.co/
+
+Supabase作为一个开源的后端解决方案
+https://mp.weixin.qq.com/s/7wqZ9xWgXWZ9ap6MJk5ReQ
