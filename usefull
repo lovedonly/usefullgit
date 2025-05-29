@@ -254,3 +254,75 @@ https://github.com/DataExpert-io/data-engineer-handbook
 源码Github：https://github.com/zmops/zeus-iot
 数据抓取
 https://github.com/getmaxun/maxun
+开源量化交易引擎
+https://github.com/QuantConnect/Lean
+分布式 AI 集群，支持运行超出单设备能力的大型语言模型
+https://github.com/exo-explore/exo
+租房
+https://github.com/saysky/manland
+RAGEN，第一个复现deepseek-R1用于训练agent，RAGEN: A General-Purpose Reasoning Agent Training Framework，正全力押注 RL（强化学习）+ LLM（大语言模型）+ Agents（智能体）融合的未来，https://github.com/ZihanWang314/ragen。
+saas-erp
+一个极具实用价值的开源项目——MiniMind。这个项目使得我们只需利用普通电脑，就能在短短3小时内打造出一个精简版的 DeepSeek
+https://github.com/jingyaogong/minimind
+RAGEN 是一个通用的推理智能体训练框架
+DeepSeek 大模型的免费 API 项目
+https://github.com/LLM-Red-Team/deepseek-free-api
+面向设计师的开源Cursor，零代码实现网站可视化编辑并且实时更新代码，拖拉拽就能做个网站
+https://github.com/onlook-dev/onlook
+AI驱动的数据标注系统源代码 x-anylabeling
+https://github.com/simplescaling/s1
+Excalidraw 是一个功能强大且灵活的开源绘图工具，适合需要快速绘制图表、线框图或创意草图的用户
+
+Repomix 是一款强大的工具，可将整个代码库打包到一个对 AI 友好的文件中
+https://github.com/yamadashy/repomix
+
+Using deepseek's r1 reasoning to agentically retrieve, discard, and synthesize information from a knowledge base in order to fully answer a complex question.
+https://github.com/deansaco/r1-reasoning-rag/tree/main ， https://mp.weixin.qq.com/s/9lrIGhOzWSr5KoDz6BVBEQ
+基于Python/C++的高性能开源量化交易框架
+https://github.com/fasiondog/hikyuu
+数字人
+https://github.com/GuijiAI/HeyGem.ai
+Figma设计稿传到Cursor等AI编程工具
+https://github.com/GLips/Figma-Context-MCP
+2.27 big 50
+autoMate 是一款基于 OmniParser 构建的革命性 AI+RPA 自动化工具，旨在通过自然语言交互让计算机代替人工完成重复性任务。
+
+https://github.com/Anxcye/anx-reader
+https://github.com/bestZwei/LibreTV
+下载音视频
+🔗仓库地址：https://github.com/yt-dlp/yt-dlp
+FastMCP 以其「快速」「简洁」「Pythonic」「协议完备」的特点，彻底降低了 MCP 服务开发与集成的门槛
+https://github.com/jlowin/fastmcp
+https://github.com/oomol-lab/pdf-craft
+创新的视频扩散生成框架
+https://github.com/lllyasviel/FramePack
+KrillinAI是一款基于AI大模型开发的，集视频翻译、配音、语音克隆于一身的视频翻译和配音工具
+《AI Agents for Beginners》课程就是你的起点
+https://github.com/microsoft/ai-agents-for-beginners
+让 AI 像人一样操作电脑
+github.com/simular-ai/Agent-S
+开源统一语音对话模型Voila
+https://github.com/maitrix-org/Voila
+
+https://github.com/KoljaB/RealtimeVoiceChat
+IINA 是一款专为 macOS 打造的开源媒体播放器
+的知识库 AI 问答系统
+https://github.com/zhimaAi/chatwiki
+nps 是一款轻量级、高性能且功能强大的内网穿透代理服务器
+https://github.com/pipipi-pikachu/PPTist
+
+SeleniumBase 是个全能型的浏览器自动化框架，核心是用 Python 包装了 Selenium 的 WebDriver API，再加上一堆贴心的功能。它支持 Chrome、Firefox、Edge 等主流浏览器，还能跑在无头模式（就是不弹出浏览器窗口，适合服务器跑脚本）。
+https://mp.weixin.qq.com/s/gTOdrAxBq2VFG5yyg-j_3w
+https://github.com/frappe/erpnext
+ API 测试工具，试试 Bruno
+fuint 是一个开源的会员管理及营销系统
+https://gitee.com/fuint/fuint-uniapp
+
+一键重装操作系统（Linux 或 Windows）的功能
+https://github.com/bin456789/reinstall
+
+来微调大模型的开源项目：Llama-factory
+https://github.com/hiyouga/LLaMA-Factory
+开源音视频转各种风格文档
+https://github.com/hanshuaikang/AI-Media2Doc
+https://github.com/voideditor/void
